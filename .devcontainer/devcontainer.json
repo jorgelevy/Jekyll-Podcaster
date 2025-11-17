@@ -1,4 +1,8 @@
 {
   "name": "Jekyll",
-  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm"
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm",
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "features": {
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
+  }
 }

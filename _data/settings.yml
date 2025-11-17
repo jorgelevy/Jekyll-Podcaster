@@ -17,17 +17,16 @@ social:
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
-  - {name: 'Spotify', link: '#'}
-  - {name: 'YouTube', link: '#'}
+  - {name: 'Spotify', link: 'https://open.spotify.com/show/2JWi6xfdeg17hwq9hv5yJj'}
+  - {name: 'YouTube', link: 'https://www.youtube.com/watch?v=h7EtkoQPKSE&list=PLAE1kbDnDw36OIaVMzyHE4i7I-xdnij_K'}
   - {name: 'Android', link: '#'}
   - {name: 'Spreaker', link: '#'}
-  - {name: 'Google Podcast', link: '#'}
   - {name: 'Anchor', link: '#'}
   - {name: 'Castbox', link: '#'}
   - {name: 'Overcast', link: '#'}
   - {name: 'RadioPublic', link: '#'}
   - {name: 'Breaker', link: '#'}  
-  - {name: 'RSS', link: '#'}
+  - {name: 'RSS', link: 'https://anchor.fm/s/e88377d0/podcast/rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
